@@ -75,7 +75,7 @@
 - Automated **log generation** with timestamps and scheduled cleanup tasks.  
 - Integrated **email automation** (`smtplib`) to send log reports.  
 - **Tech Stack:** Python, OS, Hashlib, Schedule  
-- [🔗 GitHub Repository]((https://github.com/Tejas-1817/Duplicate-File-Cleaner-Log-Automation))
+- [🔗 GitHub Repository](https://github.com/Tejas-1817/Duplicate-File-Cleaner-Log-Automation)
 
 ---
 
