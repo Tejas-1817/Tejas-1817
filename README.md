@@ -6,10 +6,9 @@
   </p>
 
   <!-- Header Banner -->
-  <p align="center">
-    <img src="https://github.com/TejasVatane/TejasVatane/raw/main/header.svg" alt="Hi, I'm Tejas Khandu Vatane" width="900"/>
-  </p>
-
+  <h1 style="font-family: 'Poppins', sans-serif; font-weight: 800; font-size: 3em; color: #ff7f00;">
+  Hi, I'm Tejas Vatane 👋
+</h1>
 ---
 
   <!-- Animated Tagline -->
