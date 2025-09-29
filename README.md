@@ -1,10 +1,5 @@
 <div align="center">
 
-  <!-- Profile Logo -->
-  <p align="center">
-    <img src="https://github.com/TejasVatane/TejasVatane/raw/main/profile-logo.png" width="100" alt="Profile Logo"/>
-  </p>
-
   <!-- Header Banner -->
   <h1 style="font-family: 'Poppins', sans-serif; font-weight: 800; font-size: 3em; color: #ff7f00;">
   Hi, I'm Tejas Vatane 👋
