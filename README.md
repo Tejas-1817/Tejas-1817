@@ -115,8 +115,8 @@
 
 <div align="center">
 
-![Tejas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TejasVatane&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TejasVatane&layout=compact&theme=tokyonight&hide_border=true)
+![Tejas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejas-1817&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-1817&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
