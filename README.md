@@ -92,7 +92,7 @@
 - **Image Classification (CNN – MNIST)** – CNN with convolution, pooling, and dropout layers; trained using Adam optimizer & Softmax output.  
 - **Text Sentiment Analysis (RNN/LSTM)** – LSTM-based sequence model with word embeddings (Word2Vec/Glove).  
 - **Tech Stack:** Python, TensorFlow, Keras, NLTK  
-- [🔗 GitHub Repository](#)
+- [🔗 GitHub Repository](https://github.com/Tejas-1817/Deep-Learning-Applications)
 
 ---
 
