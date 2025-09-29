@@ -4,7 +4,6 @@
   <h1 style="font-family: 'Poppins', sans-serif; font-weight: 800; font-size: 3em; color: #ff7f00;">
   Hi, I'm Tejas Vatane 👋
 </h1>
----
 
   <!-- Animated Tagline -->
   <p align="center">
