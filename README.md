@@ -84,7 +84,7 @@
 - **Diabetes & Breast Cancer Detection** – High accuracy with SVM & Logistic Regression.  
 - **Wine Classifier** – Multi-class classification using KNN & Random Forest.  
 - **Tech Stack:** Python, Pandas, Scikit-learn, NumPy, Matplotlib  
-- [🔗 GitHub Repository](#)
+- [🔗 GitHub Repository](https://github.com/Tejas-1817/Machine-Learning-Models)
 
 ---
 
